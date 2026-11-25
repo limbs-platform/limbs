@@ -1,13 +1,20 @@
-  #    ##### #   # ####   ####
- #      #   ## ## #   # #
- #      #   # # # ####   ###
-#      #   #   # #   #     #
-#### ##### #   # ####  ####
-
-Lab Intranet for Members, Brainbases &amp; Studies
-
+##########################################################
+# LIMBS - Lab Intranet for Members, Brainbases & Studies #
+##########################################################
 
 WHAT IS THIS FOR?
 
-Foo BarFoo BarFoo BarFoo BarFoo BarFoo BarFoo BarFoo BarFoo BarFoo BarFoo Bar
-Foo BarFoo BarFoo BarFoo BarFoo BarFoo BarFoo BarFoo BarFoo BarFoo BarFoo Bar
+Modular Private Research Platform for closed companies, Research
+Organizations, Laboratories and other structures requiring a
+transparent platform for logging studies, brainmaps, knowledge
+databases and employee accounting.
+
+WHY?
+
+This project is an open-source commission from a company.
+
+USING THE SYSTEM:
+
+git clone https://github.com/limbs-platform/limbs.git
+cd limbs
+...
