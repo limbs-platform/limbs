@@ -1,6 +1,12 @@
 <!doctype html>
 <html lang="en">
   <head>
+    <script>
+      if (!localStorage.getItem("token")) {
+        window.location.replace("/login");
+      }
+    </script>
+
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
@@ -21,10 +27,9 @@
           <li><a href="/profile">profile</a></li>
         </ul>
       </nav>
-    </header>
-    <main>
       <h1>Welcome to L.I.M.B.S. Intranet Systems</h1>
-    </main>
+    </header>
+    <main></main>
     <footer>
       <p>&copy; 1998-2026 Limbs Platform. All rights reserved.</p>
     </footer>

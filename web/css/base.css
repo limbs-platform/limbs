@@ -4,6 +4,7 @@ body {
   color: white;
   margin: 0;
   padding: 0;
+  min-height: 100vh;
 }
 
 a {
@@ -13,11 +14,25 @@ a {
 body {
   display: flex;
   flex-direction: column;
-  min-height: 100vh;
-  min-height: 100dvh;
+}
+
+header {
+  background-color: brown;
+}
+
+.content {
+  display: flex;
+  flex: 1;
+}
+
+.sidebar {
+  min-width: 200px;
 }
 
 main {
-  flex-grow: 1;
-  padding: 20px;
+  flex: 1;
+}
+
+footer {
+  text-align: center;
 }
