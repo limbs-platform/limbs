@@ -4,14 +4,15 @@
 
 WHAT IS THIS FOR?
 
-Modular Private Research Platform for closed companies, Research
-Organizations, Laboratories and other structures requiring a
+Modular Private Research Platform for closed companies, research
+organizations, laboratories, and other structures requiring a
 transparent platform for logging studies, brainmaps, knowledge
-databases and employee accounting.
+databases, and member management.
 
 WHY?
 
-This project is an open-source platform especially for Eklipse Research Group
+This project is an open-source platform created specifically for 
+Eklipse Research Group.
 
 USING THE SYSTEM:
 
