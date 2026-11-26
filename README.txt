@@ -11,7 +11,7 @@ databases and employee accounting.
 
 WHY?
 
-This project is an open-source commission from a company.
+This project is an open-source platform especially for Eklipse Research Group
 
 USING THE SYSTEM:
 
